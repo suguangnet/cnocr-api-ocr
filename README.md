@@ -219,7 +219,7 @@ print(result)
 ```
 
 ## 软件界面
-![alt text](软体界面.png)
+![alt text](软体界面.jpg)
 
 ## API 文档
 
