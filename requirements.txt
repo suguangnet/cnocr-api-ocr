@@ -1,0 +1,23 @@
+# 身份证识别系统依赖
+# 安装方式: pip install -r requirements.txt
+
+# Web 框架
+Flask==2.0.1
+
+# 图片处理
+Pillow>=9.0.0
+opencv-python==4.6.0.66
+
+# 深度学习框架
+torch==1.9.0
+torchvision==0.10.0
+
+# OCR 库
+cnstd==1.2
+
+# ONNX 模型推理
+onnxruntime==1.11.1
+
+# 其他依赖
+numpy>=1.21.0
+requests>=2.25.0
